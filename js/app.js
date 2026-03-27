@@ -11,6 +11,9 @@ const btnTema = document.getElementById("toggle-tema");
 let rutas = [];
 let condiciones = [];
 
+/* =========================
+   INIT
+========================= */
 async function init() {
   try {
     rutas = await (await fetch("./data/rutas.json")).json();
@@ -24,6 +27,9 @@ async function init() {
   }
 }
 
+/* =========================
+   LLENAR SELECTS
+========================= */
 function llenarSelects() {
   const origenes = [...new Set(rutas.map(r => r.origen))];
   const destinos = [...new Set(rutas.map(r => r.destino))];
@@ -40,6 +46,9 @@ function llenarSelects() {
   });
 }
 
+/* =========================
+   EVENTO BUSCAR
+========================= */
 form.addEventListener("submit", e => {
   e.preventDefault();
   resultadosDiv.innerHTML = "";
@@ -61,9 +70,15 @@ form.addEventListener("submit", e => {
   mostrarResultados(filtradas);
 });
 
+/* =========================
+   CÁLCULO DE RUTA (VARÍA SEGÚN ZONAS)
+========================= */
 function calcularRuta(ruta) {
-  let tiempo = ruta.tiempo_min;
-  let costo = ruta.costo;
+  const factor =
+    ((ruta.origen.length + ruta.destino.length) % 10) / 20 + 1;
+
+  let tiempo = ruta.tiempo_min * factor;
+  let costo = ruta.costo * factor;
 
   condiciones.forEach(c => {
     tiempo *= (1 + c.tiempo_pct / 100);
@@ -73,10 +88,13 @@ function calcularRuta(ruta) {
   return {
     ...ruta,
     tiempo: Math.round(tiempo),
-    costo
+    costo: Math.round(costo)
   };
 }
 
+/* =========================
+   MOSTRAR RESULTADOS
+========================= */
 function mostrarResultados(lista) {
   resultadosDiv.innerHTML = "";
 
@@ -112,6 +130,9 @@ function mostrarResultados(lista) {
   });
 }
 
+/* =========================
+   FAVORITOS
+========================= */
 function mostrarFavoritos() {
   const favs = obtenerFavoritos();
   favoritosDiv.innerHTML = "";
@@ -128,6 +149,9 @@ function mostrarFavoritos() {
   });
 }
 
+/* =========================
+   TEMA OSCURO / CLARO
+========================= */
 function cargarTema() {
   const tema = localStorage.getItem("tema");
   if (tema === "oscuro") {
@@ -144,4 +168,7 @@ btnTema.addEventListener("click", () => {
   );
 });
 
+/* =========================
+   START
+========================= */
 init();
