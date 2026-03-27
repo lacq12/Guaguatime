@@ -106,3 +106,24 @@ function mostrarFavoritos() {
 }
 
 init();
+
+const btnTema = document.getElementById("toggle-tema");
+
+// Cargar tema guardado
+const temaGuardado = localStorage.getItem("tema");
+if (temaGuardado === "oscuro") {
+  document.body.classList.add("dark");
+  btnTema.textContent = "🌞 Tema claro";
+}
+
+btnTema.addEventListener("click", () => {
+  document.body.classList.toggle("dark");
+
+  if (document.body.classList.contains("dark")) {
+    localStorage.setItem("tema", "oscuro");
+    btnTema.textContent = "🌞 Tema claro";
+  } else {
+    localStorage.setItem("tema", "claro");
+    btnTema.textContent = "🌙 Tema oscuro";
+  }
+});
