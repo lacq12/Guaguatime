@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GuaguaTime RD</title>
+
+  <!-- SEO básico -->
+  <meta name="description" content="Simulador de rutas y costos del transporte público en RD">
+
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+<header class="header">
+  <h1>🚍 GuaguaTime RD</h1>
+  <p class="subtitulo">Simulador de rutas de transporte público</p>
+</header>
+
+<main class="contenedor">
+
+  <!-- 🔍 FORMULARIO -->
+  <section class="card formulario">
+    <h2>Buscar Ruta</h2>
+
+    <form id="form-busqueda">
+
+      <div class="campo">
+        <label for="origen">Origen:</label>
+        <select id="origen" required>
+          <option value="">Seleccione origen</option>
+        </select>
+      </div>
+
+      <div class="campo">
+        <label for="destino">Destino:</label>
+        <select id="destino" required>
+          <option value="">Seleccione destino</option>
+        </select>
+      </div>
+
+      <button type="button" id="buscar">🔍 Buscar rutas</button>
+
+    </form>
+  </section>
+
+  <!-- 📊 RESULTADOS -->
+  <section class="card">
+    <h2>Resultados</h2>
+    <div id="resultados" class="contenido-vacio">
+      <p>Selecciona origen y destino para ver rutas 🚍</p>
+    </div>
+  </section>
+
+  <!-- ⭐ FAVORITOS -->
+  <section class="card">
+    <h2>⭐ Favoritos</h2>
+    <div id="favoritos" class="contenido-vacio">
+      <p>No tienes rutas guardadas aún</p>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  <p>Proyecto Parcial - UASD | GuaguaTime RD</p>
+</footer>
+
+<script type="module" src="js/app.js"></script>
+
+</body>
+</html>

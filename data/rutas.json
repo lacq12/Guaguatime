@@ -1,0 +1,116 @@
+[
+  {
+    "origen": "Los Mina",
+    "destino": "Zona Colonial",
+    "transporte": "guagua",
+    "tiempo_min": 25,
+    "costo": 50,
+    "transbordos": 1
+  },
+  {
+    "origen": "Los Mina",
+    "destino": "Zona Colonial",
+    "transporte": "motoconcho",
+    "tiempo_min": 15,
+    "costo": 120,
+    "transbordos": 0
+  },
+  {
+    "origen": "Villa Mella",
+    "destino": "Zona Colonial",
+    "transporte": "carro publico",
+    "tiempo_min": 35,
+    "costo": 60,
+    "transbordos": 1
+  },
+  {
+    "origen": "Herrera",
+    "destino": "Centro Olimpico",
+    "transporte": "guagua",
+    "tiempo_min": 30,
+    "costo": 50,
+    "transbordos": 1
+  },
+  {
+    "origen": "Herrera",
+    "destino": "Centro Olimpico",
+    "transporte": "motoconcho",
+    "tiempo_min": 18,
+    "costo": 140,
+    "transbordos": 0
+  },
+  {
+    "origen": "Santo Domingo Este",
+    "destino": "UASD",
+    "transporte": "guagua",
+    "tiempo_min": 40,
+    "costo": 50,
+    "transbordos": 2
+  },
+  {
+    "origen": "Santo Domingo Norte",
+    "destino": "UASD",
+    "transporte": "carro publico",
+    "tiempo_min": 45,
+    "costo": 70,
+    "transbordos": 1
+  },
+  {
+    "origen": "Boca Chica",
+    "destino": "Zona Colonial",
+    "transporte": "guagua",
+    "tiempo_min": 50,
+    "costo": 80,
+    "transbordos": 1
+  },
+  {
+    "origen": "San Cristobal",
+    "destino": "Centro Olimpico",
+    "transporte": "carro publico",
+    "tiempo_min": 55,
+    "costo": 90,
+    "transbordos": 1
+  },
+  {
+    "origen": "Los Alcarrizos",
+    "destino": "UASD",
+    "transporte": "guagua",
+    "tiempo_min": 45,
+    "costo": 60,
+    "transbordos": 1
+  },
+
+  
+  {
+    "origen": "Zona Colonial",
+    "destino": "UASD",
+    "transporte": "carro publico",
+    "tiempo_min": 15,
+    "costo": 40,
+    "transbordos": 0
+  },
+  {
+    "origen": "UASD",
+    "destino": "Zona Colonial",
+    "transporte": "guagua",
+    "tiempo_min": 20,
+    "costo": 50,
+    "transbordos": 0
+  },
+  {
+    "origen": "Villa Mella",
+    "destino": "UASD",
+    "transporte": "metro",
+    "tiempo_min": 25,
+    "costo": 40,
+    "transbordos": 0
+  },
+  {
+    "origen": "Los Mina",
+    "destino": "UASD",
+    "transporte": "carro publico",
+    "tiempo_min": 30,
+    "costo": 70,
+    "transbordos": 1
+  }
+]

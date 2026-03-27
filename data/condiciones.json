@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "lluvia",
+    "tiempo_pct": 20,
+    "costo_extra": 10
+  },
+  {
+    "nombre": "hora pico",
+    "tiempo_pct": 30,
+    "costo_extra": 0
+  },
+  {
+    "nombre": "paro transporte",
+    "tiempo_pct": 50,
+    "costo_extra": 20
+  }
+]

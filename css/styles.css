@@ -1,0 +1,61 @@
+:root {
+  --color-principal: #2c3e50;
+  --color-secundario: #3498db;
+  --blanco: #ffffff;
+}
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: var(--color-principal);
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  display: grid;
+  gap: 20px;
+}
+
+section {
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+button {
+  background: var(--color-secundario);
+  color: white;
+  border: none;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.ruta {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+/* 🌙 Modo oscuro BONUS */
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121212;
+    color: white;
+  }
+
+  section {
+    background: #1e1e1e;
+  }
+}
