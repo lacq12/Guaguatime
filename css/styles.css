@@ -1,13 +1,22 @@
 :root {
   --color-principal: #2c3e50;
   --color-secundario: #3498db;
-  --blanco: #ffffff;
+  --bg-claro: #f4f4f4;
+  --bg-card-claro: #ffffff;
+  --texto-claro: #000000;
+
+  --bg-oscuro: #121212;
+  --bg-card-oscuro: #1e1e1e;
+  --texto-oscuro: #ffffff;
 }
 
+/* 🌞 TEMA CLARO (default) */
 body {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   margin: 0;
-  background: #f4f4f4;
+  background: var(--bg-claro);
+  color: var(--texto-claro);
+  transition: all 0.3s ease;
 }
 
 header {
@@ -24,7 +33,7 @@ main {
 }
 
 section {
-  background: white;
+  background: var(--bg-card-claro);
   padding: 15px;
   border-radius: 10px;
 }
@@ -36,26 +45,34 @@ button {
   padding: 10px;
   margin-top: 10px;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 button:hover {
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 .ruta {
   border: 1px solid #ccc;
   padding: 10px;
   margin-top: 10px;
+  border-radius: 5px;
 }
 
-/* 🌙 Modo oscuro BONUS */
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #121212;
-    color: white;
-  }
+/* 🌙 TEMA OSCURO */
+body.dark {
+  background: var(--bg-oscuro);
+  color: var(--texto-oscuro);
+}
 
-  section {
-    background: #1e1e1e;
-  }
+body.dark section {
+  background: var(--bg-card-oscuro);
+}
+
+body.dark header {
+  background: #1c2833;
+}
+
+body.dark .ruta {
+  border-color: #555;
 }
