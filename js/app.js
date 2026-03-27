@@ -49,12 +49,9 @@ function llenarSelects() {
 /* =========================
    EVENTOS UI
 ========================= */
-
-// ✅ BUSCAR RUTAS (ÚNICO EVENTO)
 form.addEventListener("submit", e => {
   e.preventDefault();
 
-  // ✅ LIMPIAR SIEMPRE AL INICIO
   resultadosDiv.innerHTML = "";
 
   const origen = origenSelect.value;
@@ -74,15 +71,12 @@ form.addEventListener("submit", e => {
   mostrarResultados(filtradas);
 });
 
-// ✅ LIMPIAR RESULTADOS AL CAMBIAR SELECCIONES (UX)
 origenSelect.addEventListener("change", () => {
-  resultadosDiv.innerHTML =
-    "<p>Selecciona destino y pulsa buscar 🚍</p>";
+  resultadosDiv.innerHTML = "<p>Selecciona destino y pulsa buscar 🚍</p>";
 });
 
 destinoSelect.addEventListener("change", () => {
-  resultadosDiv.innerHTML =
-    "<p>Selecciona origen y pulsa buscar 🚍</p>";
+  resultadosDiv.innerHTML = "<p>Selecciona origen y pulsa buscar 🚍</p>";
 });
 
 /* =========================
@@ -120,8 +114,7 @@ function mostrarResultados(lista) {
     div.innerHTML = `
       🚍 ${r.transporte}<br>
       ⏱️ ${calc.tiempo} min<br>
-      💰 RD$${calc.costo}<br>
-      🔄 Transbordos: ${r.transbordos}
+      💰 RD$${calc.costo}
     `;
 
     const btn = document.createElement("button");
