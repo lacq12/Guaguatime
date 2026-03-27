@@ -16,12 +16,12 @@
     "transbordos": 0
   },
   {
-    "origen": "Villa Mella",
+    "origen": "Los Mina",
     "destino": "Zona Colonial",
     "transporte": "carro publico",
-    "tiempo_min": 35,
-    "costo": 60,
-    "transbordos": 1
+    "tiempo_min": 22,
+    "costo": 80,
+    "transbordos": 0
   },
   {
     "origen": "Herrera",
@@ -40,6 +40,14 @@
     "transbordos": 0
   },
   {
+    "origen": "Herrera",
+    "destino": "Centro Olimpico",
+    "transporte": "carro publico",
+    "tiempo_min": 25,
+    "costo": 70,
+    "transbordos": 0
+  },
+  {
     "origen": "Santo Domingo Este",
     "destino": "UASD",
     "transporte": "guagua",
@@ -48,11 +56,43 @@
     "transbordos": 2
   },
   {
-    "origen": "Santo Domingo Norte",
+    "origen": "Santo Domingo Este",
+    "destino": "UASD",
+    "transporte": "motoconcho",
+    "tiempo_min": 28,
+    "costo": 150,
+    "transbordos": 0
+  },
+  {
+    "origen": "Santo Domingo Este",
     "destino": "UASD",
     "transporte": "carro publico",
-    "tiempo_min": 45,
+    "tiempo_min": 35,
     "costo": 70,
+    "transbordos": 1
+  },
+  {
+    "origen": "Villa Mella",
+    "destino": "Zona Colonial",
+    "transporte": "guagua",
+    "tiempo_min": 38,
+    "costo": 60,
+    "transbordos": 1
+  },
+  {
+    "origen": "Villa Mella",
+    "destino": "Zona Colonial",
+    "transporte": "motoconcho",
+    "tiempo_min": 25,
+    "costo": 130,
+    "transbordos": 0
+  },
+  {
+    "origen": "Villa Mella",
+    "destino": "Zona Colonial",
+    "transporte": "carro publico",
+    "tiempo_min": 35,
+    "costo": 60,
     "transbordos": 1
   },
   {
@@ -64,10 +104,18 @@
     "transbordos": 1
   },
   {
-    "origen": "San Cristobal",
-    "destino": "Centro Olimpico",
+    "origen": "Boca Chica",
+    "destino": "Zona Colonial",
+    "transporte": "motoconcho",
+    "tiempo_min": 35,
+    "costo": 160,
+    "transbordos": 0
+  },
+  {
+    "origen": "Boca Chica",
+    "destino": "Zona Colonial",
     "transporte": "carro publico",
-    "tiempo_min": 55,
+    "tiempo_min": 45,
     "costo": 90,
     "transbordos": 1
   },
@@ -79,38 +127,20 @@
     "costo": 60,
     "transbordos": 1
   },
-
-  
   {
-    "origen": "Zona Colonial",
+    "origen": "Los Alcarrizos",
     "destino": "UASD",
-    "transporte": "carro publico",
-    "tiempo_min": 15,
-    "costo": 40,
-    "transbordos": 0
-  },
-  {
-    "origen": "UASD",
-    "destino": "Zona Colonial",
-    "transporte": "guagua",
-    "tiempo_min": 20,
-    "costo": 50,
-    "transbordos": 0
-  },
-  {
-    "origen": "Villa Mella",
-    "destino": "UASD",
-    "transporte": "metro",
-    "tiempo_min": 25,
-    "costo": 40,
-    "transbordos": 0
-  },
-  {
-    "origen": "Los Mina",
-    "destino": "UASD",
-    "transporte": "carro publico",
+    "transporte": "motoconcho",
     "tiempo_min": 30,
-    "costo": 70,
+    "costo": 150,
+    "transbordos": 0
+  },
+  {
+    "origen": "Los Alcarrizos",
+    "destino": "UASD",
+    "transporte": "carro publico",
+    "tiempo_min": 35,
+    "costo": 75,
     "transbordos": 1
   }
 ]
