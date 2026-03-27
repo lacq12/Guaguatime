@@ -1,434 +1,1892 @@
 [
   {
-    "origen": "Los Mina",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Naco",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Los Mina",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Naco",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Los Mina",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Naco",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Los Mina",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Gazcue",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Los Mina",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Gazcue",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Los Mina",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Gazcue",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Los Mina",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "Ensanche Quisqueya",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Los Mina",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "Ensanche Quisqueya",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Los Mina",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "Ensanche Quisqueya",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Herrera",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Herrera",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Herrera",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Bella Vista",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Herrera",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Mirador Sur",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Herrera",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Mirador Sur",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Herrera",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Mirador Sur",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Herrera",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "Ensanche Ozama",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Herrera",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "Ensanche Ozama",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Herrera",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "Ensanche Ozama",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "Zona Colonial",
+    "origen": "Piantini",
+    "destino": "Villa Juana",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Los Praditos",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Los Praditos",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "Centro Olimpico",
+    "origen": "Piantini",
+    "destino": "Los Praditos",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "San Carlos",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "San Carlos",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Santo Domingo Este",
-    "destino": "UASD",
+    "origen": "Piantini",
+    "destino": "San Carlos",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Villa Mella",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Piantini",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Villa Mella",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Piantini",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Villa Mella",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Piantini",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Villa Mella",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Gazcue",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Villa Mella",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Gazcue",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Villa Mella",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Gazcue",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Villa Mella",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "Ensanche Quisqueya",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Villa Mella",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "Ensanche Quisqueya",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Villa Mella",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "Ensanche Quisqueya",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Boca Chica",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Bella Vista",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Boca Chica",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Bella Vista",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Boca Chica",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Bella Vista",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Boca Chica",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Mirador Sur",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Boca Chica",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Mirador Sur",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Boca Chica",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Mirador Sur",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Boca Chica",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "Ensanche Ozama",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Boca Chica",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "Ensanche Ozama",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Boca Chica",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "Ensanche Ozama",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Villa Juana",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Villa Juana",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "Zona Colonial",
+    "origen": "Naco",
+    "destino": "Villa Juana",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Los Praditos",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Los Praditos",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "Centro Olimpico",
+    "origen": "Naco",
+    "destino": "Los Praditos",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "San Carlos",
     "transporte": "guagua",
     "tiempo_min": 35,
-    "costo": 50,
-    "transbordos": 1
+    "costo": 50
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "San Carlos",
     "transporte": "motoconcho",
-    "tiempo_min": 22,
-    "costo": 140,
-    "transbordos": 0
+    "tiempo_min": 20,
+    "costo": 140
   },
   {
-    "origen": "Los Alcarrizos",
-    "destino": "UASD",
+    "origen": "Naco",
+    "destino": "San Carlos",
     "transporte": "carro publico",
-    "tiempo_min": 30,
-    "costo": 75,
-    "transbordos": 1
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Gazcue",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Quisqueya",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Bella Vista",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Mirador Sur",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Ensanche Ozama",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Villa Juana",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "San Carlos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "San Carlos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "Los Praditos",
+    "destino": "San Carlos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Piantini",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Piantini",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Piantini",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Naco",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Naco",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Naco",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Gazcue",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Gazcue",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Gazcue",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Ensanche Quisqueya",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Bella Vista",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Bella Vista",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Bella Vista",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Mirador Sur",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Mirador Sur",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Mirador Sur",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Ensanche Ozama",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Ensanche Ozama",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Ensanche Ozama",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Villa Juana",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Villa Juana",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Villa Juana",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Los Praditos",
+    "transporte": "guagua",
+    "tiempo_min": 35,
+    "costo": 50
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Los Praditos",
+    "transporte": "motoconcho",
+    "tiempo_min": 20,
+    "costo": 140
+  },
+  {
+    "origen": "San Carlos",
+    "destino": "Los Praditos",
+    "transporte": "carro publico",
+    "tiempo_min": 28,
+    "costo": 75
   }
 ]
