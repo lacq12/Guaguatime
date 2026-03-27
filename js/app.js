@@ -111,6 +111,34 @@ function mostrarResultados(lista) {
     const div = document.createElement("div");
     div.className = "ruta";
 
+    // ✅ ICONO SEGÚN TRANSPORTE
+    let icono = "🚍";
+    if (r.transporte === "motoconcho") icono = "🏍️";
+    if (r.transporte === "carro publico") icono = "🚖";
+
+    div.innerHTML = `
+      ${icono} <strong>${r.transporte}</strong><br>
+      ⏱️ ${calc.tiempo} min<br>
+      💰 RD$${calc.costo}
+    `;
+
+    const btn = document.createElement("button");
+    btn.textContent = "Guardar";
+    btn.addEventListener("click", () => {
+      guardarFavorito(r);
+      mostrarFavoritos();
+    });
+
+    div.appendChild(btn);
+    resultadosDiv.appendChild(div);
+  });
+}
+
+  lista.forEach(r => {
+    const calc = calcularRuta(r);
+    const div = document.createElement("div");
+    div.className = "ruta";
+
     div.innerHTML = `
       🚍 ${r.transporte}<br>
       ⏱️ ${calc.tiempo} min<br>
